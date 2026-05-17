@@ -28,7 +28,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50"/>
 </p>
+
 
 <p align="start">
   <b>HTML5&nbsp;&nbsp;&nbsp;&nbsp; CSS3&nbsp;&nbsp;&nbsp;&nbsp; PHP&nbsp;&nbsp;&nbsp;&nbsp; MySQL&nbsp;&nbsp;&nbsp;&nbsp; Figma&nbsp;&nbsp;&nbsp;&nbsp; Canva</b>
